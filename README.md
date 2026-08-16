@@ -2,5 +2,5 @@
 Repo utilizado para la materia Ingenieria de Software II
 
 ## Repositorio personal
-- Grupo: RedSelection
-- Guadalupe Nadal
+- *Grupo: * RedSelection
+- *Integrante: *Guadalupe Nadal
