@@ -1,8 +1,5 @@
 # **IS2-2026 - Red Selection**
+Repo utilizado para la materia Ingenieria de Software II
 
-
-## Integrantes
-- Francisco Aragona
-- Tomás De Faveri
+## Repositorio personal
 - Guadalupe Nadal
-- Andrea Pereyra
